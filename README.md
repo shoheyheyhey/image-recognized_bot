@@ -1,1 +1,1 @@
-# image-recognized_bot
+# line-bot_google-vision
